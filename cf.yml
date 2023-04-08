@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: Minecraft Spot Price Server via Docker / ECS
+Description: "Custom Minecraft Stack"
 Parameters:
 
   ECSAMI:
